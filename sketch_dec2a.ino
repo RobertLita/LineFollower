@@ -23,6 +23,7 @@ const int calibrationDuration = 6000;
 int baseSpeed = 225;
 int sense = 200;
 int lastErrorCalib = 0;
+
 QTRSensors qtr;
 bool onLineStart = false;
 
