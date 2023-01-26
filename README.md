@@ -28,7 +28,7 @@
  - The coding part was done during a 1 day hackathon.
 
 ## Results 🏎️
- - The best time of our robot was 24.76s (from 3 tries).
+ - The best time of our robot was 25.40s (from 3 tries).
  - The robot keeps shaking on the line, maybe the kp was a little high.
 
 ### I teamed up with <a href = "https://github.com/CristiGitHub">Cristi Lefter</a> (Team Chelie).
